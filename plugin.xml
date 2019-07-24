@@ -1,0 +1,14 @@
+<!DOCTYPE plugin PUBLIC "-//Oxygen Plugin" "../plugin.dtd">
+<plugin
+ id="oxygenxml.emf.support"
+ name="Render EMF images in Author mode with freehep library"
+ description="Render EMF in author mode using freehep library."
+ version="1.1"
+ vendor="Radu Coravu"
+ class="ro.sync.exml.plugin.Plugin"
+ classLoaderType="preferReferencedResources">
+ <runtime>
+  <librariesFolder name="lib" scope="global"/>
+ </runtime>
+ <extension type="WorkspaceAccessJS" href="wsAccess.js"/>
+</plugin>
