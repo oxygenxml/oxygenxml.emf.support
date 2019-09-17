@@ -3,7 +3,7 @@ Oxygen XML Editor does not render by default EMF images.
 
 This plugin adds support to render EMF images in Author mode but you need to install additional libraries in order to make it work.
 
-To install this plugin you need to download this project as ZIP file end extract it inside the **plugins** folder within Oxygen install dir.
+To install this plugin you need to download this project as ZIP file and extract it inside the **plugins** folder within Oxygen install dir.
 Then you need to download a binary libraries distribution from:
 
 http://java.freehep.org/vectorgraphics/index.html
