@@ -4,7 +4,7 @@
  name="Render EMF images in Author mode with freehep library"
  description="Render EMF in author mode using freehep library."
  version="1.1"
- vendor="Radu Coravu"
+ vendor="Syncro Soft"
  class="ro.sync.exml.plugin.Plugin"
  classLoaderType="preferReferencedResources">
  <runtime>
