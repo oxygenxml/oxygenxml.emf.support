@@ -1,3 +1,5 @@
+# This plugin is no longer supported as the used library does not seem to be very accurate when displaying the EMF image.
+
 # oxygenxml.emf.support
 Oxygen XML Editor does not render by default EMF images. 
 
